@@ -1,0 +1,45 @@
+body{
+        h2 {
+            background-color: rgba(255, 99, 71, 0.3);
+            font-size: 40px;
+            text-indent: 20px;
+            border: 4px solid white;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+
+        .container img {
+            margin-right: 40px;
+            margin-bottom: 30px;
+        }
+
+        .container2 {
+            display: flex;
+            align-items: center;
+        }
+
+        .text {
+            font-size: 40px;
+            text-align: center;
+            margin-bottom: 30px;
+            margin-left: 450px;
+            margin-right: 450px;
+        }
+
+        .small_text {
+            text-align: center;
+        }
+
+        .greeting
+        {
+            font-size: 70px;
+            text-align: center;
+        }
+}
