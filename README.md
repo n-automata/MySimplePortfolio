@@ -1,5 +1,9 @@
-# MyPortfolio_Simple
- Simple portfolio webpage built using HTML, CSS, JS, and REST
+# MySimplePortfolio
+ Simple portfolio webpage that provides a photography portfolio 
+
+## Technologies Used 
+C++, HTML, CSS, JavaScript 
+CROW, Docker, REST
 
 ## Screenshots ~ 
 ![image](https://github.com/n-automata/MyPortfolio_Simple/assets/148803386/77b5a809-797f-45a8-8f83-56e1253910c2)
