@@ -1,5 +1,5 @@
 # MySimplePortfolio
- Simple portfolio webpage that provides a photography portfolio 
+ Simple portfolio webpage that provides a photography portfolio. This was created by running a webserver on a Docker Container and connecting to it using local host.
 
 ## Technologies Used 
 C++, HTML, CSS, JavaScript 
